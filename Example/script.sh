@@ -15,8 +15,8 @@ sed s/_/,/g accesionDengue > accesionDengue
 
 # Ordenar las etiquetas por el pais
 # sort labels by country 
-sort -k 2 accesionDengue > accesionPais
+sort -k 2 accesionDengue > accesionPais.txt
 
 # Ordenar las etiquetas por año
 # sort labels by year
-sort -k 3 accesionDengue > accesionanxo
+sort -k 3 accesionDengue > accesionanxo.txt
