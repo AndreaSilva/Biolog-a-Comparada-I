@@ -6,6 +6,6 @@ Codigo para ordenar etiquetas (numeroAccesion_pais_año) de una archivo .fas por
 Para correr el ejemplo \\
 execute example:
 
-~$: cd example 
+~$: cd Example 
 
-~$: sudo scrpt.sh
+~$: sudo script.sh
